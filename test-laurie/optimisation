@@ -1,0 +1,17 @@
+credits
+ 	@Etienne Desaintjean - 42StudentParis
+	27/11/2022
+	Program realized for my sister ;)
+
+parametres
+	changer la couleur droite de l'app
+	changer la couleur gauche de l'app
+	changer la couleur du fond du logo
+	# changer le chemin par default du fichier ouvert
+
+statistiques
+	nombre de prefix renommer
+	temps ou l'application a ete ouverte
+	nombre de fichier renommer
+	nombre de fois ou l'application a ete ouverte
+	nombre de fois ou le boutton valider a ete actionner
